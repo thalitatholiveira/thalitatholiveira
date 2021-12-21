@@ -1,8 +1,8 @@
 ### Hey, there! I'm Thalita! 👩‍💻 💜
 
-* I am a front-end developer,
-* a student of Systems Analysis and Development,
-* and a lover of programming, art, music, movies and technology.
+* I am front-end developer
+* Student of Systems Analysis and Development
+* And a lover of programming, art, music, movies and technology
 
 <!-- Most used languages -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thalitatholiveira&layout=compact&theme=dark)](https://github.com/thalitatholiveira/github-readme-stats) -->
